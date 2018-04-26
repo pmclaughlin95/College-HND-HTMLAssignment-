@@ -1,0 +1,11 @@
+body {
+	background-image: url(bg.jpg);
+
+	background-repeat:repeat-x;
+}
+p {
+	font-size:.9em;
+	line-height:170%;
+	margin-top:0;
+	margin-left: 25px;
+}
